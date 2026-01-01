@@ -1,0 +1,2034 @@
+[
+  {
+    "frame": 55,
+    "time_s": 2.2,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6979998350143433,
+        "bbox_xyxy": [
+          354.0,
+          74.0,
+          373.0,
+          127.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 79,
+    "time_s": 3.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.39969372749328613,
+        "bbox_xyxy": [
+          419.0,
+          146.0,
+          458.0,
+          215.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 160,
+    "time_s": 6.4,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.30379238724708557,
+        "bbox_xyxy": [
+          325.0,
+          118.0,
+          349.0,
+          240.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 161,
+    "time_s": 6.44,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5845197439193726,
+        "bbox_xyxy": [
+          324.0,
+          115.0,
+          349.0,
+          253.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 162,
+    "time_s": 6.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5934050679206848,
+        "bbox_xyxy": [
+          324.0,
+          119.0,
+          345.0,
+          253.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 163,
+    "time_s": 6.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6157874464988708,
+        "bbox_xyxy": [
+          323.0,
+          116.0,
+          345.0,
+          272.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 175,
+    "time_s": 7.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.42574599385261536,
+        "bbox_xyxy": [
+          322.0,
+          96.0,
+          350.0,
+          253.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 177,
+    "time_s": 7.08,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3304494619369507,
+        "bbox_xyxy": [
+          356.0,
+          99.0,
+          377.0,
+          255.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 178,
+    "time_s": 7.12,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.26437702775001526,
+        "bbox_xyxy": [
+          356.0,
+          99.0,
+          376.0,
+          255.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 181,
+    "time_s": 7.24,
+    "objects": [
+      {
+        "class_name": "washer",
+        "confidence": 0.2974022328853607,
+        "bbox_xyxy": [
+          195.0,
+          193.0,
+          227.0,
+          306.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 182,
+    "time_s": 7.28,
+    "objects": [
+      {
+        "class_name": "washer",
+        "confidence": 0.2974022328853607,
+        "bbox_xyxy": [
+          195.0,
+          193.0,
+          227.0,
+          306.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 232,
+    "time_s": 9.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3620983362197876,
+        "bbox_xyxy": [
+          332.0,
+          70.0,
+          365.0,
+          168.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 284,
+    "time_s": 11.36,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4455893337726593,
+        "bbox_xyxy": [
+          46.0,
+          214.0,
+          72.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 288,
+    "time_s": 11.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6009697914123535,
+        "bbox_xyxy": [
+          311.0,
+          138.0,
+          375.0,
+          184.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 295,
+    "time_s": 11.8,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2645265460014343,
+        "bbox_xyxy": [
+          44.0,
+          215.0,
+          70.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 296,
+    "time_s": 11.84,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3142247498035431,
+        "bbox_xyxy": [
+          270.0,
+          192.0,
+          306.0,
+          256.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 346,
+    "time_s": 13.84,
+    "objects": [
+      {
+        "class_name": "brace",
+        "confidence": 0.5765554308891296,
+        "bbox_xyxy": [
+          335.0,
+          82.0,
+          367.0,
+          171.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 351,
+    "time_s": 14.04,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.36288943886756897,
+        "bbox_xyxy": [
+          36.0,
+          215.0,
+          61.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 352,
+    "time_s": 14.08,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3175172209739685,
+        "bbox_xyxy": [
+          36.0,
+          215.0,
+          61.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 354,
+    "time_s": 14.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.29436376690864563,
+        "bbox_xyxy": [
+          35.0,
+          215.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 356,
+    "time_s": 14.24,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3512786328792572,
+        "bbox_xyxy": [
+          35.0,
+          215.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 357,
+    "time_s": 14.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.29435956478118896,
+        "bbox_xyxy": [
+          35.0,
+          216.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 358,
+    "time_s": 14.32,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3113580346107483,
+        "bbox_xyxy": [
+          35.0,
+          216.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 360,
+    "time_s": 14.4,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.38062068819999695,
+        "bbox_xyxy": [
+          35.0,
+          216.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 361,
+    "time_s": 14.44,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.43032556772232056,
+        "bbox_xyxy": [
+          34.0,
+          216.0,
+          60.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 362,
+    "time_s": 14.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5702126622200012,
+        "bbox_xyxy": [
+          34.0,
+          216.0,
+          60.0,
+          360.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.5601451992988586,
+        "bbox_xyxy": [
+          407.0,
+          158.0,
+          441.0,
+          264.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 363,
+    "time_s": 14.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5401561260223389,
+        "bbox_xyxy": [
+          34.0,
+          215.0,
+          59.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 364,
+    "time_s": 14.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4644063413143158,
+        "bbox_xyxy": [
+          34.0,
+          216.0,
+          59.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 365,
+    "time_s": 14.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5337108373641968,
+        "bbox_xyxy": [
+          34.0,
+          216.0,
+          59.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 366,
+    "time_s": 14.64,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2856919765472412,
+        "bbox_xyxy": [
+          34.0,
+          215.0,
+          59.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 369,
+    "time_s": 14.76,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.25582629442214966,
+        "bbox_xyxy": [
+          33.0,
+          215.0,
+          58.0,
+          360.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.5326803922653198,
+        "bbox_xyxy": [
+          407.0,
+          153.0,
+          439.0,
+          264.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 372,
+    "time_s": 14.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.38937312364578247,
+        "bbox_xyxy": [
+          32.0,
+          215.0,
+          58.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 373,
+    "time_s": 14.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3203447461128235,
+        "bbox_xyxy": [
+          32.0,
+          215.0,
+          58.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 374,
+    "time_s": 14.96,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5065127015113831,
+        "bbox_xyxy": [
+          32.0,
+          216.0,
+          58.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 376,
+    "time_s": 15.04,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3666522800922394,
+        "bbox_xyxy": [
+          32.0,
+          216.0,
+          57.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 377,
+    "time_s": 15.08,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.28882670402526855,
+        "bbox_xyxy": [
+          32.0,
+          216.0,
+          57.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 379,
+    "time_s": 15.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.26761719584465027,
+        "bbox_xyxy": [
+          32.0,
+          216.0,
+          56.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 380,
+    "time_s": 15.2,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.25485527515411377,
+        "bbox_xyxy": [
+          32.0,
+          216.0,
+          56.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 381,
+    "time_s": 15.24,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4836605191230774,
+        "bbox_xyxy": [
+          407.0,
+          154.0,
+          437.0,
+          262.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 382,
+    "time_s": 15.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3298985958099365,
+        "bbox_xyxy": [
+          31.0,
+          216.0,
+          56.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 383,
+    "time_s": 15.32,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.32816728949546814,
+        "bbox_xyxy": [
+          31.0,
+          216.0,
+          56.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 388,
+    "time_s": 15.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.28268054127693176,
+        "bbox_xyxy": [
+          332.0,
+          126.0,
+          397.0,
+          171.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 406,
+    "time_s": 16.24,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.26463809609413147,
+        "bbox_xyxy": [
+          28.0,
+          215.0,
+          53.0,
+          357.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 440,
+    "time_s": 17.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5875580906867981,
+        "bbox_xyxy": [
+          322.0,
+          68.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 441,
+    "time_s": 17.64,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.632294774055481,
+        "bbox_xyxy": [
+          322.0,
+          68.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 442,
+    "time_s": 17.68,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6300705671310425,
+        "bbox_xyxy": [
+          322.0,
+          67.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 443,
+    "time_s": 17.72,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.7215757369995117,
+        "bbox_xyxy": [
+          322.0,
+          67.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 444,
+    "time_s": 17.76,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6031633615493774,
+        "bbox_xyxy": [
+          322.0,
+          67.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 445,
+    "time_s": 17.8,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6780405640602112,
+        "bbox_xyxy": [
+          322.0,
+          67.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 446,
+    "time_s": 17.84,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6787673234939575,
+        "bbox_xyxy": [
+          321.0,
+          67.0,
+          361.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 447,
+    "time_s": 17.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5597591996192932,
+        "bbox_xyxy": [
+          321.0,
+          67.0,
+          361.0,
+          150.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 448,
+    "time_s": 17.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5574603080749512,
+        "bbox_xyxy": [
+          321.0,
+          67.0,
+          361.0,
+          150.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 449,
+    "time_s": 17.96,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.43414032459259033,
+        "bbox_xyxy": [
+          392.0,
+          86.0,
+          424.0,
+          149.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 450,
+    "time_s": 18.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2698991298675537,
+        "bbox_xyxy": [
+          392.0,
+          86.0,
+          425.0,
+          150.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 466,
+    "time_s": 18.64,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.28529301285743713,
+        "bbox_xyxy": [
+          400.0,
+          85.0,
+          444.0,
+          262.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 467,
+    "time_s": 18.68,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3004305958747864,
+        "bbox_xyxy": [
+          400.0,
+          85.0,
+          444.0,
+          262.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 468,
+    "time_s": 18.72,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3077892065048218,
+        "bbox_xyxy": [
+          312.0,
+          66.0,
+          360.0,
+          156.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 472,
+    "time_s": 18.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3182927966117859,
+        "bbox_xyxy": [
+          331.0,
+          66.0,
+          359.0,
+          127.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 473,
+    "time_s": 18.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.28060418367385864,
+        "bbox_xyxy": [
+          402.0,
+          86.0,
+          447.0,
+          263.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.3069531321525574,
+        "bbox_xyxy": [
+          331.0,
+          66.0,
+          359.0,
+          127.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 474,
+    "time_s": 18.96,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3844631016254425,
+        "bbox_xyxy": [
+          403.0,
+          86.0,
+          447.0,
+          263.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.3232576847076416,
+        "bbox_xyxy": [
+          309.0,
+          94.0,
+          337.0,
+          200.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 475,
+    "time_s": 19.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4553300440311432,
+        "bbox_xyxy": [
+          310.0,
+          96.0,
+          337.0,
+          167.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 478,
+    "time_s": 19.12,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.31970134377479553,
+        "bbox_xyxy": [
+          312.0,
+          99.0,
+          341.0,
+          156.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 479,
+    "time_s": 19.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.451219379901886,
+        "bbox_xyxy": [
+          312.0,
+          99.0,
+          337.0,
+          156.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 492,
+    "time_s": 19.68,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2567997872829437,
+        "bbox_xyxy": [
+          15.0,
+          214.0,
+          39.0,
+          356.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 498,
+    "time_s": 19.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3588296175003052,
+        "bbox_xyxy": [
+          14.0,
+          215.0,
+          39.0,
+          360.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.4038957357406616,
+        "bbox_xyxy": [
+          413.0,
+          145.0,
+          448.0,
+          211.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 502,
+    "time_s": 20.08,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.29611635208129883,
+        "bbox_xyxy": [
+          302.0,
+          156.0,
+          326.0,
+          289.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 507,
+    "time_s": 20.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6501045823097229,
+        "bbox_xyxy": [
+          414.0,
+          146.0,
+          446.0,
+          213.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 510,
+    "time_s": 20.4,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4503839313983917,
+        "bbox_xyxy": [
+          301.0,
+          68.0,
+          337.0,
+          246.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 512,
+    "time_s": 20.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5806539058685303,
+        "bbox_xyxy": [
+          317.0,
+          69.0,
+          338.0,
+          157.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 513,
+    "time_s": 20.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.37880295515060425,
+        "bbox_xyxy": [
+          317.0,
+          69.0,
+          338.0,
+          154.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 514,
+    "time_s": 20.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.33824339509010315,
+        "bbox_xyxy": [
+          319.0,
+          69.0,
+          338.0,
+          150.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 515,
+    "time_s": 20.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4450022280216217,
+        "bbox_xyxy": [
+          313.0,
+          68.0,
+          338.0,
+          145.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 525,
+    "time_s": 21.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.35519373416900635,
+        "bbox_xyxy": [
+          304.0,
+          65.0,
+          357.0,
+          160.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 526,
+    "time_s": 21.04,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.7535252571105957,
+        "bbox_xyxy": [
+          311.0,
+          65.0,
+          357.0,
+          150.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 527,
+    "time_s": 21.08,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6197035908699036,
+        "bbox_xyxy": [
+          318.0,
+          65.0,
+          357.0,
+          155.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 537,
+    "time_s": 21.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.27608996629714966,
+        "bbox_xyxy": [
+          23.0,
+          189.0,
+          53.0,
+          224.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 539,
+    "time_s": 21.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2976634204387665,
+        "bbox_xyxy": [
+          274.0,
+          196.0,
+          303.0,
+          264.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 540,
+    "time_s": 21.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.30354854464530945,
+        "bbox_xyxy": [
+          275.0,
+          196.0,
+          302.0,
+          264.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 543,
+    "time_s": 21.72,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.29388368129730225,
+        "bbox_xyxy": [
+          22.0,
+          189.0,
+          50.0,
+          224.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 544,
+    "time_s": 21.76,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.31606972217559814,
+        "bbox_xyxy": [
+          22.0,
+          189.0,
+          50.0,
+          224.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 545,
+    "time_s": 21.8,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3554930090904236,
+        "bbox_xyxy": [
+          22.0,
+          189.0,
+          50.0,
+          224.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 546,
+    "time_s": 21.84,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.32474783062934875,
+        "bbox_xyxy": [
+          275.0,
+          197.0,
+          302.0,
+          263.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.4038675129413605,
+        "bbox_xyxy": [
+          22.0,
+          189.0,
+          49.0,
+          225.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 547,
+    "time_s": 21.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.336946964263916,
+        "bbox_xyxy": [
+          21.0,
+          190.0,
+          48.0,
+          225.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 548,
+    "time_s": 21.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.418792188167572,
+        "bbox_xyxy": [
+          275.0,
+          197.0,
+          302.0,
+          263.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 568,
+    "time_s": 22.72,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.25337982177734375,
+        "bbox_xyxy": [
+          299.0,
+          113.0,
+          329.0,
+          171.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 571,
+    "time_s": 22.84,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4988986849784851,
+        "bbox_xyxy": [
+          0.0,
+          214.0,
+          27.0,
+          353.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 572,
+    "time_s": 22.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3683701455593109,
+        "bbox_xyxy": [
+          0.0,
+          214.0,
+          27.0,
+          353.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 573,
+    "time_s": 22.92,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.43358010053634644,
+        "bbox_xyxy": [
+          0.0,
+          214.0,
+          26.0,
+          352.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 579,
+    "time_s": 23.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2592664957046509,
+        "bbox_xyxy": [
+          0.0,
+          214.0,
+          26.0,
+          353.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 583,
+    "time_s": 23.32,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5007349252700806,
+        "bbox_xyxy": [
+          319.0,
+          75.0,
+          354.0,
+          152.0
+        ]
+      },
+      {
+        "class_name": "tie",
+        "confidence": 0.27962589263916016,
+        "bbox_xyxy": [
+          418.0,
+          179.0,
+          440.0,
+          233.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 584,
+    "time_s": 23.36,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.8249542713165283,
+        "bbox_xyxy": [
+          321.0,
+          69.0,
+          354.0,
+          142.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 585,
+    "time_s": 23.4,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.8479402661323547,
+        "bbox_xyxy": [
+          322.0,
+          68.0,
+          354.0,
+          136.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 589,
+    "time_s": 23.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.26624417304992676,
+        "bbox_xyxy": [
+          421.0,
+          178.0,
+          440.0,
+          233.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 592,
+    "time_s": 23.68,
+    "objects": [
+      {
+        "class_name": "brace",
+        "confidence": 0.3044187128543854,
+        "bbox_xyxy": [
+          306.0,
+          67.0,
+          353.0,
+          161.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 596,
+    "time_s": 23.84,
+    "objects": [
+      {
+        "class_name": "brace",
+        "confidence": 0.4348214566707611,
+        "bbox_xyxy": [
+          306.0,
+          79.0,
+          353.0,
+          161.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 597,
+    "time_s": 23.88,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.6424353122711182,
+        "bbox_xyxy": [
+          417.0,
+          160.0,
+          438.0,
+          255.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 599,
+    "time_s": 23.96,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5804967880249023,
+        "bbox_xyxy": [
+          416.0,
+          160.0,
+          439.0,
+          255.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 600,
+    "time_s": 24.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.7644603252410889,
+        "bbox_xyxy": [
+          413.0,
+          160.0,
+          438.0,
+          255.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 603,
+    "time_s": 24.12,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.32671475410461426,
+        "bbox_xyxy": [
+          254.0,
+          87.0,
+          296.0,
+          137.0
+        ]
+      },
+      {
+        "class_name": "brace",
+        "confidence": 0.2864392101764679,
+        "bbox_xyxy": [
+          408.0,
+          123.0,
+          440.0,
+          158.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 606,
+    "time_s": 24.24,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2909482419490814,
+        "bbox_xyxy": [
+          401.0,
+          122.0,
+          438.0,
+          158.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 607,
+    "time_s": 24.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5519079566001892,
+        "bbox_xyxy": [
+          401.0,
+          122.0,
+          437.0,
+          157.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 609,
+    "time_s": 24.36,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.49586233496665955,
+        "bbox_xyxy": [
+          401.0,
+          87.0,
+          434.0,
+          156.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 610,
+    "time_s": 24.4,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3080679476261139,
+        "bbox_xyxy": [
+          399.0,
+          87.0,
+          434.0,
+          156.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 615,
+    "time_s": 24.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4834340810775757,
+        "bbox_xyxy": [
+          394.0,
+          88.0,
+          436.0,
+          141.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 628,
+    "time_s": 25.12,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.26200005412101746,
+        "bbox_xyxy": [
+          322.0,
+          64.0,
+          354.0,
+          113.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 629,
+    "time_s": 25.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.33043816685676575,
+        "bbox_xyxy": [
+          322.0,
+          65.0,
+          353.0,
+          113.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 630,
+    "time_s": 25.2,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4729028344154358,
+        "bbox_xyxy": [
+          322.0,
+          65.0,
+          353.0,
+          113.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 632,
+    "time_s": 25.28,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2802155315876007,
+        "bbox_xyxy": [
+          319.0,
+          64.0,
+          353.0,
+          120.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 633,
+    "time_s": 25.32,
+    "objects": [
+      {
+        "class_name": "pipe",
+        "confidence": 0.2762315571308136,
+        "bbox_xyxy": [
+          319.0,
+          65.0,
+          353.0,
+          120.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 634,
+    "time_s": 25.36,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.28388711810112,
+        "bbox_xyxy": [
+          318.0,
+          66.0,
+          353.0,
+          121.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 636,
+    "time_s": 25.44,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.2802921533584595,
+        "bbox_xyxy": [
+          317.0,
+          66.0,
+          353.0,
+          122.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 637,
+    "time_s": 25.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5658789277076721,
+        "bbox_xyxy": [
+          317.0,
+          65.0,
+          353.0,
+          122.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 638,
+    "time_s": 25.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.45037272572517395,
+        "bbox_xyxy": [
+          317.0,
+          65.0,
+          353.0,
+          121.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 639,
+    "time_s": 25.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.37787842750549316,
+        "bbox_xyxy": [
+          317.0,
+          65.0,
+          353.0,
+          121.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 649,
+    "time_s": 25.96,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.27244189381599426,
+        "bbox_xyxy": [
+          269.0,
+          198.0,
+          299.0,
+          263.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 650,
+    "time_s": 26.0,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.27307644486427307,
+        "bbox_xyxy": [
+          269.0,
+          198.0,
+          299.0,
+          263.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 654,
+    "time_s": 26.16,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.25661700963974,
+        "bbox_xyxy": [
+          383.0,
+          140.0,
+          406.0,
+          188.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 662,
+    "time_s": 26.48,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.33025023341178894,
+        "bbox_xyxy": [
+          320.0,
+          66.0,
+          334.0,
+          141.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 663,
+    "time_s": 26.52,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5294825434684753,
+        "bbox_xyxy": [
+          317.0,
+          66.0,
+          334.0,
+          146.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 664,
+    "time_s": 26.56,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.5803061723709106,
+        "bbox_xyxy": [
+          317.0,
+          66.0,
+          334.0,
+          146.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 665,
+    "time_s": 26.6,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.4734581410884857,
+        "bbox_xyxy": [
+          317.0,
+          67.0,
+          334.0,
+          146.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 666,
+    "time_s": 26.64,
+    "objects": [
+      {
+        "class_name": "tie",
+        "confidence": 0.3186233937740326,
+        "bbox_xyxy": [
+          317.0,
+          67.0,
+          334.0,
+          146.0
+        ]
+      }
+    ]
+  }
+]

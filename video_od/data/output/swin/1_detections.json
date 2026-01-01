@@ -1,0 +1,514 @@
+[
+  {
+    "frame": 160,
+    "time_s": 6.4,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 161,
+    "time_s": 6.44,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 162,
+    "time_s": 6.48,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 163,
+    "time_s": 6.52,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 164,
+    "time_s": 6.56,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 165,
+    "time_s": 6.6,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 166,
+    "time_s": 6.64,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 167,
+    "time_s": 6.68,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 168,
+    "time_s": 6.72,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 169,
+    "time_s": 6.76,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 170,
+    "time_s": 6.8,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 171,
+    "time_s": 6.84,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 172,
+    "time_s": 6.88,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 173,
+    "time_s": 6.92,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 174,
+    "time_s": 6.96,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 175,
+    "time_s": 7.0,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 176,
+    "time_s": 7.04,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 177,
+    "time_s": 7.08,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 178,
+    "time_s": 7.12,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 179,
+    "time_s": 7.16,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 180,
+    "time_s": 7.2,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 181,
+    "time_s": 7.24,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 182,
+    "time_s": 7.28,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 183,
+    "time_s": 7.32,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 184,
+    "time_s": 7.36,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 185,
+    "time_s": 7.4,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 186,
+    "time_s": 7.44,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 187,
+    "time_s": 7.48,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 188,
+    "time_s": 7.52,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 189,
+    "time_s": 7.56,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 190,
+    "time_s": 7.6,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 191,
+    "time_s": 7.64,
+    "objects": [
+      {
+        "class_name": "ladder",
+        "confidence": 0.4910520017147064,
+        "bbox_xyxy": [
+          161.0,
+          67.0,
+          379.0,
+          360.0
+        ]
+      }
+    ]
+  }
+]
