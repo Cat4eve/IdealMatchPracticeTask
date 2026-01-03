@@ -63,6 +63,9 @@ The best tradeoff between accuracy and runtime was **YOLOv8x-World v2**.
 - Non-YOLO backbones are classifiers rather than detectors, so I approximate localization with motion-based box proposals, which can be noisy.
 - Open-vocabulary detection is sensitive to the exact class wording and scene context, so similar labels can yield different results.
 - Small objects and low-light frames reduce visual signal, making detections less reliable across all models.
+- Some objects are occasionally misclassified (e.g., a bottle misclassified as a shovel), especially when they are partially occluded or visually similar.
+- GPU capacity limits prevented running heavier models at higher resolutions or batch sizes.
+- Video quality issues and watermarks can obscure objects and reduce detection accuracy.
 
 ## Possible improvements
 - Fine-tune a detector on construction-specific data.
